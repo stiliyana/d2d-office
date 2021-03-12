@@ -1067,7 +1067,7 @@
                  "id":1,
                  "properties":[
                         {
-                         "name":"collidable",
+                         "name":"collides",
                          "type":"bool",
                          "value":true
                         }]
@@ -1076,7 +1076,7 @@
                  "id":2,
                  "properties":[
                         {
-                         "name":"collidable",
+                         "name":"collides",
                          "type":"bool",
                          "value":true
                         }]
@@ -1085,7 +1085,7 @@
                  "id":7,
                  "properties":[
                         {
-                         "name":"collidable",
+                         "name":"collides",
                          "type":"bool",
                          "value":true
                         }]
@@ -1094,7 +1094,7 @@
                  "id":8,
                  "properties":[
                         {
-                         "name":"collidable",
+                         "name":"collides",
                          "type":"bool",
                          "value":true
                         }]
@@ -1103,7 +1103,7 @@
                  "id":15,
                  "properties":[
                         {
-                         "name":"collidable",
+                         "name":"collides",
                          "type":"bool",
                          "value":true
                         }]
@@ -1112,7 +1112,7 @@
                  "id":16,
                  "properties":[
                         {
-                         "name":"collidable",
+                         "name":"collides",
                          "type":"bool",
                          "value":true
                         }]
@@ -1121,7 +1121,7 @@
                  "id":17,
                  "properties":[
                         {
-                         "name":"collidable",
+                         "name":"collides",
                          "type":"bool",
                          "value":true
                         }]
