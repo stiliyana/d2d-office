@@ -1098,6 +1098,33 @@
                          "type":"bool",
                          "value":true
                         }]
+                }, 
+                {
+                 "id":15,
+                 "properties":[
+                        {
+                         "name":"collidable",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":16,
+                 "properties":[
+                        {
+                         "name":"collidable",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":17,
+                 "properties":[
+                        {
+                         "name":"collidable",
+                         "type":"bool",
+                         "value":true
+                        }]
                 }],
          "tilewidth":32,
          "transparentcolor":"#ff00ff"
