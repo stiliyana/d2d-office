@@ -529,11 +529,6 @@
                          "name":"openWebsite",
                          "type":"string",
                          "value":"https:\/\/www.youtube.com\/embed\/dQw4w9WgXcQ"
-                        }, 
-                        {
-                         "name":"openWebsiteTrigger",
-                         "type":"string",
-                         "value":"onaction"
                         }]
                 }, 
                 {
